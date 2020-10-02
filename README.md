@@ -2,6 +2,8 @@
 
 I'm an Information Architect / UX Strategist with a background in Library and Information Studies. I have 13+ years' experience in **design research**, **information architecture**, and **interaction design**. I help people do what they need to do, find what they need to find.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gracelau/), follow me on [Twitter](https://twitter.com/lauggh).
+
 ----
 
 ## 🔭 Expertise
