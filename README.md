@@ -20,8 +20,9 @@ Looking for portfolio samples? I've included a fun mixture of previous and curre
 
 ## 🌱 Giving Back
 Community building has been a large part of my identity since graduate school.
-- `GLOBAL` Been part of the global team at World IA Day since 2018
-- `REGIONAL` Volunteered as experience director for the Information Architecture Summit 2018 in Chicago
+- `GLOBAL` Been part of the global team at World IA Day since 2018 as webadmin, global executive producer, president, co-president, etc
+- `REGIONAL` Volunteered as co-chair for IAC21 Anywhere, 2021 Information Architecture conference 
+- `REGIONAL` Volunteered as experience director for the 2018 Information Architecture Summit in Chicago
 - `REGIONAL` Volunteered as co-chair for IAC21: the information architecture conference online
 - `LOCAL` Volunteered, organized, found sponsors for World IA Day Los Angeles, San Gabriel Valley since WIAD16
 - `LOCAL` Founded and hosted local events for the San Gabriel Valley UX meetup since March 2019
